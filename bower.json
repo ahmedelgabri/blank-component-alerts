@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-alerts",
+  "version": "0.1.0",
+  "description": "Alerts component for blank-css",
+  "main": "alerts.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-alerts",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "alerts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
